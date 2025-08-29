@@ -2,6 +2,8 @@
 
 A powerful AI-driven data analysis platform that combines the capabilities of Google's Generative AI with advanced data processing tools to provide intelligent insights, visualizations, and automated analysis workflows.
 
+[Click here for the demo](https://tds-project-2-guom.onrender.com/)
+
 ## 📊 Overview
 
 The TDS Data Analyst Agent is a web-based application that transforms how you interact with data. Upload your datasets and questions, and receive comprehensive analysis with interactive visualizations, statistical insights, and AI-powered recommendations.
